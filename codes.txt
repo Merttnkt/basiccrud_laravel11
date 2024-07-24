@@ -1,0 +1,3 @@
+migration: veritabanı şemanızı tanımlamanıza ve yönetmenize yardımcı olan bir özelliktir
+controller: veri tabanı üzerinde update delete create yapmamızı sağlıyor
+model:veritabanına göndereceğimiz veriler burada
